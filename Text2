@@ -1,0 +1,696 @@
+<!DOCTYPE html>
+<!-- saved from url=(0067)http://templates.framework-y.com/signflow/pages/index-business.html -->
+<html lang="en"><!--<![endif]--><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Signflow - Ultra Modern Tech Template</title>
+    <meta name="description" content="Multipurpose HTML template.">
+    <script src="./Signflow - Ultra Modern Tech Template_files/jquery.min.js.indir"></script>
+    <link rel="stylesheet" href="./Signflow - Ultra Modern Tech Template_files/bootstrap.css">
+    <script src="./Signflow - Ultra Modern Tech Template_files/script.js.indir"></script>
+    <link rel="stylesheet" href="./Signflow - Ultra Modern Tech Template_files/style.css">
+    <link rel="stylesheet" href="./Signflow - Ultra Modern Tech Template_files/content-box.css">
+    <link rel="stylesheet" href="./Signflow - Ultra Modern Tech Template_files/image-box.css">
+    <link rel="stylesheet" href="./Signflow - Ultra Modern Tech Template_files/animations.css">
+    <link rel="stylesheet" href="./Signflow - Ultra Modern Tech Template_files/components.css">
+    <link rel="stylesheet" href="./Signflow - Ultra Modern Tech Template_files/flexslider.css">
+    <link rel="stylesheet" href="./Signflow - Ultra Modern Tech Template_files/magnific-popup.css">
+    <link rel="stylesheet" href="./Signflow - Ultra Modern Tech Template_files/contact-form.css">
+    <link rel="stylesheet" href="./Signflow - Ultra Modern Tech Template_files/social.stream.css">
+    <link rel="stylesheet" href="./Signflow - Ultra Modern Tech Template_files/skin.css">
+    <link rel="icon" href="http://templates.framework-y.com/signflow/images/favicon.png">
+<style type="text/css">:root zeus-ad, :root topadblock, :root span[id^="ezoic-pub-ad-placeholder-"], :root guj-ad, :root div[jsdata*="CarouselPLA-"][data-id^="CarouselPLA-"], :root div[id^="yandex_ad"], :root div[id^="vuukle-ad-"], :root div[id^="rc-widget-"], :root div[id^="lazyad-"], :root div[id^="js-dfp-"], :root div[id^="gtm-ad-"], :root div[id^="gpt_ad_"], :root div[id^="div-gpt-"], :root div[id^="dfp-slot-"], :root div[id^="dfp-ad-"], :root div[id^="bunyad-widget-ads-"], :root div[id^="advads_"], :root div[id^="ads300_100-widget-"], :root div[id^="ads250_250-widget-"], :root div[id^="adrotate_widgets-"], :root div[id^="adngin-"], :root div[id^="adfox_"], :root div[id^="ad_script_"], :root div[id^="ad-server-"], :root div[id^="ad-gpt-"], :root div[id^="ad-div-"], :root div[id*="ScriptRoot"], :root div[id*="MarketGid"], :root div[data-test-id="AdBannerWrapper"], :root div[data-subscript="Advertising"], :root div[data-mpu1], :root div[data-insertion], :root div[data-id-advertdfpconf], :root div[data-google-query-id], :root div[data-content="Advertisement"], :root div[data-alias="300x250 Ad 2"], :root div[data-alias="300x250 Ad 1"], :root div[data-adzone], :root div[data-adunit-path], :root div[data-adname], :root div[data-ad-wrapper], :root div[data-ad-underplayer], :root div[data-ad-targeting], :root div[data-ad-placeholder], :root div[class^="sp-adslot-"], :root div[class^="s-dfp-"], :root div[class^="pane-adsense-managed-"], :root div[class^="native-ad-"], :root div[class^="largeRectangleAd_"], :root div[data-dfp-id], :root div[class^="kiwi-ad-wrapper"], :root div[class^="index_displayAd_"], :root div[class^="index_adAfterContent_"], :root div[class^="block-openx-"], :root div[id^="adspot-"], :root div[class^="adsbutt_wrapper_"], :root div[class^="ads-partner-"], :root div[class^="adpubs-"], :root div[class^="adbanner_"], :root div[class^="ad_border_"], :root hl-adsense, :root div[data-contentexchange-widget], :root div[class^="adUnit_"], :root div[class^="StickyHeroAdWrapper-"], :root div[class^="BannerAd_"], :root div[class^="AdCard_"], :root div[class^="ad_position_"], :root div[aria-label="Ads"], :root display-ads, :root div[id^="ad-cid-"], :root aside[id^="advads_ad_widget-"], :root aside[id^="adrotate_widgets-"], :root article.ad, :root ark-top-ad, :root app-advertisement, :root app-ad, :root amp-fx-flying-carpet, :root amp-embed[type="taboola"], :root amp-ad-custom, :root ad-shield-ads, :root ad-desktop-sidebar, :root a[onmousedown^="this.href='https://paid.outbrain.com/network/redir?"][target="_blank"] + .ob_source, :root a[onmousedown^="this.href='https://paid.outbrain.com/network/redir?"][target="_blank"], :root a[onmousedown^="this.href='http://paid.outbrain.com/network/redir?"][target="_blank"] + .ob_source, :root a[href^="https://www.vfreecams.com/in/?track="], :root a[href^="https://www.rabbits.webcam/?id="], :root div[data-test-id="AdDisplayWrapper"], :root a[href^="https://www.purevpn.com/"][href*="&utm_source=aff-"], :root a[href^="https://www.privateinternetaccess.com/"] > img, :root a[href^="https://www.passeura.com/"], :root a[href^="https://www.oneclickroot.com/?tap_a="] > img, :root a[href^="https://www.oboom.com/ref/"], :root a[href^="https://www.nutaku.net/signup/landing/"], :root a[href^="https://www.nudeidols.com/cams/"], :root a[href^="https://www.mypornstarcams.com/landing/click/"], :root a[href^="https://www.mrskin.com/account/"], :root a[href^="https://www.kingsoffetish.com/tour?partner_id="], :root a[href^="https://www.jackery.com?aff="] > img, :root a[href^="https://www.iyalc.com/"], :root a[href^="https://www.infowarsstore.com/"] > img, :root a[href^="https://www.highperformancegate.com/"], :root a[href^="https://www.healthrangerstore.com/"] > img, :root a[href^="https://www.goldenfrog.com/vyprvpn?offer_id="][href*="&aff_id="], :root a[href^="https://www.get-express-vpn.com/offer/"], :root a[href^="https://www.financeads.net/tc.php?"], :root a[href^="https://www.clicktraceclick.com/"], :root a[href^="https://www.camsoda.com/enter.php?id="], :root a[href^="https://www.brazzersnetwork.com/landing/"], :root a[href^="https://www.bebi.com"], :root div[class^="Display_displayAd"], :root a[href^="https://www.sheetmusicplus.com/?aff_id="], :root a[href^="https://www.bang.com/?aff="], :root a[href^="https://www.arthrozene.com/"][href*="?tid="], :root a[href^="https://webroutetrk.com/"], :root iframe[src^="http://ad.yieldmanager.com/"], :root a[href^="https://wantopticalfreelance.com/"], :root a[href^="https://waisheph.com/"], :root a[href^="https://uncensored.game/"], :root a[href^="https://twinrdsyn.com/"], :root a[href^="https://tupitea.co/"], :root a[href^="https://ttf.trmobc.com/"], :root a[href^="https://trusted-click-host.com/"], :root a[href^="https://trk.moviesflix4k.xyz/"], :root a[href^="https://trf.bannerator.com/"], :root a[href^="https://trappist-1d.com/"], :root a[href^="https://tragency-clesburg.icu/"], :root a[href^="https://traffdaq.com/"], :root a[href^="https://tracking.trackcasino.co/"], :root a[href^="https://tracking.comfortclick.eu/"], :root a[href^="https://tracking.avapartner.com/"], :root a[href^="https://track.ultravpn.com/"], :root a[href^="https://track.totalav.com/"], :root a[href^="https://track.themadtrcker.com/"], :root a[href^="https://track.interactivegf.com/"], :root a[href^="https://vlnk.me/"], :root a[href^="https://track.healthtrader.com/"], :root a[href^="https://track.effiliation.com/servlet/effi.click?"] > img, :root a[href^="https://track.clickmoi.xyz/"], :root a[href^="https://track.afcpatrk.com/"], :root a[href^="https://torguard.net/aff.php"] > img, :root a[href^="https://tm-offers.gamingadult.com/"], :root a[href^="https://tracking.gitads.io/"], :root a[href^="https://taghaugh.com/"], :root a[href^="https://t.mobtya.com/"], :root a[href^="https://t.hrtyj.com/"], :root a[href^="https://t.adating.link/"], :root a[href^="https://topoffers.com/"][href*="/?pid="], :root a[href^="https://syndication.dynsrvtbg.com/"], :root a[href^="https://streamate.com/landing/click/"], :root a[href^="https://reachtrgt.com/"], :root a[href^="https://queersodadults.com/"], :root a[href^="https://prf.hn/click/"][href*="/camref:"] > img, :root iframe[id^="google_ads_frame"], :root a[href^="https://pb-track.com/"], :root a[href^="https://partners.fxoro.com/click.php?"], :root a[href^="https://paid.outbrain.com/network/redir?"], :root div[id^="ad_position_"], :root a[href^="http://hotcandyland.com/partner/"], :root a[href^="https://ovb.im/"], :root a[href^="https://torrentsafeguard.com/?aid="], :root a[href^="https://offers.refchamp.com/"], :root a[href^="https://ndt5.net/"], :root a[href^="https://natour.naughtyamerica.com/track/"], :root a[href^="https://cam4com.go2cloud.org/"], :root a[href^="https://my-movie.club/"], :root div[id^="ezoic-pub-ad-"], :root a[href^="https://mk-cdn.net/"], :root .trc_rbox_div .syndicatedItemUB, :root [href^="https://zone.gotrackier.com/"], :root a[href^="https://meet-to-fuck.com/"], :root a[href^="https://medleyads.com/"], :root [href^="https://www.herbanomic.com/"] > img, :root a[href^="https://maymooth-stopic.com/"], :root a[href^="https://serve.awmdelivery.com/"], :root a[href^="https://prf.hn/click/"][href*="/adref:"] > img, :root div[id^="google_dfp_"], :root a[href^="http://googleads.g.doubleclick.net/pcs/click"], :root a[href^="https://look.utndln.com/"], :root [href^="https://routewebtk.com/"], :root a[href^="https://see.kmisln.com/"], :root a[href^="https://a.bestcontentweb.top/"], :root a[href^="https://lobimax.com/"], :root a[href^="https://lead1.pl/"], :root a[href^="https://refpazkjixes.top/"], :root a[href^="https://landing.brazzersplus.com/"], :root a[href^="https://landing.brazzersnetwork.com/"], :root a[href^="https://ads.leovegas.com/redirect.aspx?"], :root a[href^="https://land.brazzersnetwork.com/landing/"], :root a[href^="https://juicyads.in/"], :root a[href^="https://track.wg-aff.com"], :root a[href^="https://nutrientassumptionclaims.com/"], :root a[href^="https://join.virtuallust3d.com/"], :root a[href^="https://itubego.com/video-downloader/?affid="], :root a[href^="https://iqbroker.com/"][href*="?aff="], :root a[href^="https://incisivetrk.cvtr.io/click?"], :root a[href^="https://iactrivago.ampxdirect.com/"], :root a[href^="https://iac.ampxdirect.com/"], :root a[href^="https://go.zybrdr.com"], :root [href^="http://join.michelle-austin.com/"], :root a[href^="https://go.xxxiijmp.com"], :root a[href*=".zlinkm.com/"], :root a[href^="https://go.xtbaffiliates.com/"], :root a[href^="https://thaudray.com/"], :root [data-role="tile-ads-module"], :root a[href^="https://adsrv4k.com/"], :root a[href^="https://go.xlviirdr.com"], :root .card-captioned.crd > .crd--cnt > .s2nPlayer, :root [data-css-class="dfp-inarticle"], :root a[href^="https://go.tmrjmp.com"], :root a[href^="https://go.strpjmp.com/"], :root a[href^="https://go.markets.com/visit/?bta="], :root a[href^="//lambingsyddir.com/"], :root a[href^="https://billing.purevpn.com/aff.php"] > img, :root a[href^="https://go.hpyrdr.com/"], :root a[href^="https://go.goaserv.com/"], :root a[href^="https://go.ebrokerserve.com/"], :root a[href^="https://ismlks.com/"], :root a[href^="https://track.afftck.com/"], :root a[href^="https://gohere.pl/"], :root a[href^="https://go.cmrdr.com/"], :root a[href^="https://go.admjmp.com/"], :root [href^="https://kingered-banctours.com/"], :root a[href^="https://get.surfshark.net/aff_c?"][href*="&aff_id="] > img, :root a[href^="https://affiliate.rusvpn.com/click.php?"], :root a[href^="https://geniusdexchange.com/"], :root a[href^="https://aj1070.online/"], :root a[href^="https://frameworkdeserve.com/"], :root a[href^="https://www.mrskin.com/tour"], :root a[href^="https://financeads.net/tc.php?"], :root bottomadblock, :root a[href^="https://fertilitycommand.com/"], :root a[href^="https://bluedelivery.pro/"], :root a[href^="https://fast-redirecting.com/"], :root a[href^="https://fakelay.com/"], :root a[href^="https://tc.tradetracker.net/"] > img, :root a[href^="https://dianches-inchor.com/"], :root .ob_dual_right > .ob_ads_header ~ .odb_div, :root a[href^="https://deliver.tf2www.com/"], :root [href^="https://www.targetingpartner.com/"], :root [href^="https://detachedbates.com/"], :root a[href^="https://deliver.ptgncdn.com/"], :root #kt_player > a[target="_blank"], :root a[href^="https://cpartner.bdswiss.com/"], :root a[href^="https://clixtrac.com/"], :root AD-TRIPLE-BOX, :root a[href^="https://click.hoolig.app/"], :root a[href^="https://go.xlvirdr.com"], :root img[src^="https://images.purevpnaffiliates.com"], :root a[href^="https://porntubemate.com/"], :root a[href^="http://www.gfrevenge.com/landing/"], :root a[href^="https://clickadilla.com/"], :root a[href^="https://claring-loccelkin.com/"], :root a[href^="https://chaturbate.com/in/?track="], :root a[href^="https://chaturbate.com/in/?tour="], :root a[href^="https://aaucwbe.com/"], :root a[href^="https://cams.imagetwist.com/in/?track="], :root div[class^="AdItem-"], :root a[href^="https://mob1ledev1ces.com/"], :root a[href^="https://explore.findanswersnow.net/"], :root a[href^="https://camfapr.com/landing/click/"], :root a[href^="https://affcpatrk.com/"], :root a[href^="https://bongacams2.com/track?"], :root a[href^="https://www.sheetmusicplus.com/"][href*="?aff_id="], :root a[href^="https://bngpt.com/"], :root #topstuff > #tads, :root a[href^="https://black77854.com/"], :root a[href^="https://burpee.xyz/"], :root a[target="_blank"][onmousedown="this.href^='http://paid.outbrain.com/network/redir?"], :root a[href^="https://banners.livepartners.com/"], :root a[href^="https://m.do.co/c/"] > img, :root [href^="https://www.mypillow.com/"] > img, :root a[href^="https://azpresearch.club/"], :root div[id^="sticky_ad_"], :root div[class^="Ad__adContainer"], :root a[href^="https://avtub.click/assets/link.php"], :root a[href^="https://go.gldrdr.com/"], :root a[href^="https://as.sexad.net/"], :root a[href^="https://bestcond1tions.com/"], :root a[href^="https://as.conjectwatson.com/"], :root [href="https://masstortfinancing.com"] img, :root a[href^="https://bongacams10.com/track?"], :root [data-ez-name], :root a[href^="https://awecrptjmp.com/"], :root a[href^="https://someperceptionparade.com/"], :root a[href^="https://galaxyroms.net/?scr="], :root a[href^="https://albionsoftwares.com/"], :root display-ad-component, :root a[href^="https://ak.hetaruwg.com/"], :root a[href^="https://go.etoro.com/"] > img, :root a[href^="https://go.alxbgo.com/"], :root a[href^="https://aff-ads.stickywilds.com/"], :root a[href^="https://s.zlink2.com/"], :root a[href^="https://t.hrtye.com/"], :root a[href^="https://ads.cdn.live/"], :root a[href^="https://join.sexworld3d.com/track/"], :root a[href^="https://intenseaffiliates.com/redirect/"], :root a[href^="https://aweptjmp.com/"], :root a[href^="https://ads.ad4game.com/"], :root a[href^="https://adnetwrk.com/"], :root a[href^="https://adjoincomprise.com/"], :root a[href^="https://t.grtyi.com/"], :root a[href^="https://myusenet.xyz/"], :root [href^="http://misslinkvocation.com/"], :root a[href^="https://adclick.g.doubleclick.net/"], :root a[href^="https://www.bet365.com/"][href*="affiliate="], :root [href^="https://r.kraken.com/"], :root a[href^="https://mmwebhandler.aff-online.com/"], :root a[href^="http://secure.vivid.com/track/"], :root a[href^="https://go.nordvpn.net/aff"] > img, :root a[href^="https://misspkl.com/"], :root [href^="http://clicks.totemcash.com/"], :root a[href^="https://ad.zanox.com/ppc/"] > img, :root a[href^="https://msecure117.com/"], :root a[href^="https://ad.kubiccomps.icu/"], :root a[href^="https://adswick.com/"], :root a[href^="https://static.fleshlight.com/images/banners/"], :root a[href^="https://ad.doubleclick.net/"], :root a[href^="https://ad.atdmt.com/"], :root a[href^="https://meet-sex-here.com/"], :root [data-m-ad-id], :root a[href^="https://a-ads.com/"], :root a[href^="http://www.mrskin.com/tour"], :root a[href^="https://k2s.cc/pr/"], :root a[data-url^="http://paid.outbrain.com/network/redir?"], :root a[href^="http://www.coiwqe.site/"], :root iframe[src^="http://www.adpeepshosted.com/"], :root a[href^="https://prf.hn/click/"][href*="/creativeref:"] > img, :root a[href^="http://www.adultempire.com/unlimited/promo?"][href*="&partner_id="], :root a[href^="https://ads-for-free.com/click.php?"], :root a[href^="http://www.FriendlyDuck.com/"], :root a[href^="http://traffic.tc-clicks.com/"], :root a[href^="http://tc.tradetracker.net/"] > img, :root .trc_rbox .syndicatedItem, :root a[href^="https://1free33style.com/"], :root a[href^="http://rs-stripe.wsj.com/stripe/redirect"], :root a[href^="http://tour.mrskin.com/"], :root a[href^="http://pubads.g.doubleclick.net/"], :root [onclick*="content.ad/"], :root a[href^="http://pityhostngco2.xyz/"], :root a[href^="https://join.virtualtaboo.com/track/"], :root [id^="ad_sky"], :root a[href^="http://https://www.get-express-vpn.com/offer/"], :root a[href^="https://cagothie.net/"], :root a[href^="https://watchmygirlfriend.tv/"], :root a[href^="http://go.xtbaffiliates.com/"], :root a[href^="http://www.advcashpro.com/aff/"], :root a[href^="http://deloplen.com/"], :root a[href^="http://d2.zedo.com/"], :root .rc-cta[data-target], :root [href^="http://go.cm-trk2.com/"], :root a[href^="http://click.payserve.com/"], :root a[href^="https://bs.serving-sys.com"], :root [class^="chp_ads_block"], :root a[href^="http://betahit.click/"], :root a[href^="https://promo-bc.com/"], :root a[href^="http://adserver.adreactor.com/"], :root [href^="https://cipledecline.buzz/"], :root a[href^="https://earandmarketing.com/"], :root a[href^="http://adf.ly/?id="], :root [href^="http://homemoviestube.com/"], :root a[href^="http://ad.doubleclick.net/"], :root .commercial-unit-mobile-top .jackpot-main-content-container > .UpgKEd + .nZZLFc > .vci, :root a[href^="//syndication.dynsrvtbg.com/"], :root a[href^="//pubads.g.doubleclick.net/"], :root a[href^="https://pl.premium4kflix.website/"], :root [id^="chp_ads_block"], :root a[href^="https://go.julrdr.com/"], :root a[href^="//chrif8kdstie.com/"], :root div.fadeInDown[id$="____equal"][class$="____equal"], :root a[href^="https://mediaserver.gvcaffiliates.com/renderBanner.do?"], :root a[href^="https://join.dreamsexworld.com/"], :root a[href^="https://click.linksynergy.com/fs-bin/"], :root a[href^="https://www.adskeeper.com"], :root [href^="https://totlnkcl.com/"], :root a[href^="//agacelebir.com/"], :root a[href^="https://dooloust.net/"], :root [href^="https://www.mypatriotsupply.com/"] > img, :root a[href^="https://engine.phn.doublepimp.com/"], :root a[data-redirect^="https://paid.outbrain.com/network/redir?"], :root [href^="https://www.reimageplus.com/"], :root a[onmousedown^="this.href='http://paid.outbrain.com/network/redir?"][target="_blank"], :root [href^="https://secure.bmtmicro.com/servlets/"], :root a[href="//rufflycouncil.com/"], :root a[href*="https://www.sweetdeals.com/"] img, :root div[data-native_ad], :root a[href*=".zlink9.com/"], :root .commercial-unit-mobile-top .jackpot-main-content-container > .UpgKEd + .nZZLFc > div > .vci, :root a[href^="http://paid.outbrain.com/network/redir?"], :root [data-d-ad-id], :root iframe[src^="https://tpc.googlesyndication.com/"], :root a[href*=".engine.adglare.net/"], :root a[href^="https://a.bestcontentoperation.top/"], :root AFS-AD, :root a[href^="//go.xlviiirdr.com"], :root [data-dynamic-ads], :root div[class^="adunit_"], :root a[data-widget-outbrain-redirect^="http://paid.outbrain.com/network/redir?"], :root [data-ad-width], :root [href^="https://join.playboyplus.com/track/"], :root a[data-url^="http://paid.outbrain.com/network/redir?"] + .author, :root a[href^="https://axdsz.pro/"], :root a[href^="http://bodelen.com/"], :root a[data-oburl^="https://paid.outbrain.com/network/redir?"], :root a[href^="https://ptapjmp.com/"], :root DFP-AD, :root a[href^="http://allaptair.club/"], :root a[href^="//go.eabids.com/"], :root a[data-oburl^="http://paid.outbrain.com/network/redir?"], :root [href^="https://cpa.10kfreesilver.com/"], :root a[href^="https://a.bestcontentfood.top/"], :root a[href^="https://reinstandpointdumbest.com/"], :root a[href*="http://MyPillow.com"] > img, :root a[data-obtrack^="http://paid.outbrain.com/network/redir?"], :root div[class^="BlockAdvert-"], :root a[href^="http://wct.link/"], :root [href^="https://goldforyourfuture.com/clk.trk"] img, :root [href^="https://infinitytrk.com/"], :root [onclick^="location.href='http://www.reimageplus.com"], :root .ob_container .item-container-obpd, :root [id^="div-gpt-ad"], :root .commercial-unit-mobile-top > div[data-pla="1"], :root a[href^="https://www.sweetdeals.com"], :root a[href^="https://track.bruceads.com/"], :root a[href^="https://t.aslnk.link/"], :root [href^="https://zstacklife.com/"] img, :root [href^="https://www.restoro.com/"], :root [data-ad-manager-id], :root a[href^="https://fleshlight.sjv.io/"], :root div[id^="zergnet-widget"], :root [href^="https://www.mystore.com/"] > img, :root [href^="https://freecourseweb.com/"] > .sitefriend, :root [href^="https://www.hostg.xyz/aff_c"] > img, :root div[id^="ad-position-"], :root a[href^="http://affiliate.glbtracker.com/"], :root a[href^="https://leg.xyz/?track="], :root a[href^="http://bc.vc/?r="], :root [href^="https://www.brighteonstore.com/products/"] img, :root a[href^="https://syndication.exoclick.com/"], :root [href^="https://track.fiverr.com/visit/"] > img, :root a[href^="https://go.trackitalltheway.com/"], :root a[href^="https://go.cmtaffiliates.com/"], :root [data-name="adaptiveConstructorAd"], :root [href^="https://optimizedelite.com/"] > img, :root a[href^="https://www.awin1.com/cread.php?awinaffid="], :root a[href^="//thaudray.com/"], :root a[href^="https://awptjmp.com/"], :root a[href^="https://go.goasrv.com/"], :root .commercial-unit-mobile-top > .v7hl4d, :root a[href^="https://mediaserver.entainpartners.com/renderBanner.do?"], :root [href^="https://stvkr.com/"], :root a[href*=".trust.zone"], :root a[href^="http://trk.mdrtrck.com/"], :root [href^="https://shrugartisticelder.com"], :root div[id^="crt-"][style], :root a[href^="http://adultgames.xxx/"], :root a[href^="https://pcm.bannerator.com/"], :root a[href^="https://traffic.bannerator.com/"], :root [href^="https://shiftnetwork.infusionsoft.com/go/"] > img, :root iframe[src^="https://pagead2.googlesyndication.com/"], :root a[href^="http://www.onwebcam.com/random?t_link="], :root a[href^="https://vo2.qrlsx.com/"], :root [href^="https://www.avantlink.com/click.php"] img, :root div[id^="ad-inserter-"], :root .scroll-fixable.rail-right > .deals-rail, :root div[class^="ResponsiveAd-"], :root a[href^="https://oackoubs.com/"], :root a[href^="https://tour.mrskin.com/"], :root a[href^="https://fastestvpn.com/lifetime-special-deal?a_aid="], :root ADS-RIGHT, :root [href^="https://mystore.com/"] > img, :root a[href^="https://moneynow.one/"], :root [href^="https://mypatriotsupply.com/"] > img, :root [href^="https://mylead.global/stl/"] > img, :root .vid-present > .van_vid_carousel__padding, :root a[href^="https://syndication.optimizesrv.com/"], :root [id^="google_ads_iframe"], :root [href^="https://istlnkcl.com/"], :root div[data-mediatype="advertising"], :root a[href^="https://5hjdbfjfd5.monster/"], :root .section-subheader > .section-hotel-prices-header, :root [href^="http://join.ts-dominopresley.com/"], :root a[href^="https://playuhd.host/"], :root [href^="https://go.affiliatexe.com/"], :root a[href^="https://meet-sexhere.com/"], :root [href^="https://go.4rabettraff.com/"], :root [href^="https://glersakr.com/"], :root a[href^="https://click.a-ads.com/"], :root a[href^="https://wittered-mainging.com/"], :root [href^="https://engine.gettopple.com/"], :root [href^="https://awbbjmp.com/"], :root a[href^="https://gghf.mobi/"], :root [href^="https://affect3dnetwork.com/track/"], :root a[href^="https://go.currency.com/"], :root [href^="http://www.mypillow.com/"] > img, :root a[href^="//coarsewary.com/"], :root a[href^="https://a.montangop.top/"], :root [href^="https://v.investologic.co.uk/"], :root a[href^="https://chaturbate.jjgirls.com/?track="], :root [class^="s2nPlayer"], :root a[href*=".flndmyiove.net/"], :root [href^="http://join.trannies-fuck.com/"], :root [href^="http://www.fleshlightgirls.com/"], :root a[href^="https://dialling-abutory.com/"], :root div[id^="div-ads-"], :root [href^="https://rapidgator.net/article/premium/ref/"], :root a[href^="https://www.sugarinstant.com/?partner_id="], :root a[href^="https://adultfriendfinder.com/go/page/landing"], :root div[id^="advads-"], :root div[data-role="sidebarAd"], :root [href^="https://join3.bannedsextapes.com"], :root div[data-spotim-slot], :root [href^="https://antiagingbed.com/discount/"] > img, :root a[href^="https://go.247traffic.com/"], :root [href^="https://join.girlsoutwest.com/"], :root [href^="http://trafficare.net/"], :root a[href^="https://adserver.adreactor.com/"], :root [href^="http://join.shemalesfromhell.com/"], :root [id^="ad_slider"], :root [href^="https://clk.right-wing-health.com/"], :root a[href^="http://www.adultdvdempire.com/?partner_id="][href*="&utm_"], :root [href^="http://join.shemale.xxx/"], :root [href^="https://ilovemyfreedoms.com/landing-"], :root a[href^="https://ads.betfair.com/redirect.aspx?"], :root a[href^="http://cam4com.go2cloud.org/aff_c?"], :root a[href^="https://www.chngtrack.com/"], :root a[href^="https://cpmspace.com/"], :root a[href^="https://ads.planetwin365affiliate.com/redirect.aspx?"], :root [href^="http://join.rodneymoore.com/"], :root a[href^="https://uncensored3d.com/"], :root a[href^="https://creacdn.top-convert.com/"], :root div[id^="ad_bigbox_"], :root [href^="https://go.xlrdr.com"], :root [href^="http://www.pingperfect.com/aff.php"], :root a[href^="https://scurewall.co/"], :root [name^="google_ads_iframe"], :root a[href^="http://go.247traffic.com/"], :root a[href^="https://porngames.adult/?SID="], :root a[href^="https://landing1.brazzersnetwork.com"], :root #slashboxes > .deals-rail, :root [href^="http://globsads.com/"], :root a[href^="https://go.xxxjmp.com"], :root a[href^="https://transfer.xe.com/signup/track/redirect?"], :root #leader-companion > a[href], :root [data-desktop-ad-id], :root [href^="https://wct.link/"], :root [href^="https://traffserve.com/"], :root [href^="http://mypillow.com/"] > img, :root a[href^="https://a.adtng.com/"], :root a[href^="http://static.fleshlight.com/images/banners/"], :root [href="https://ourgoldguy.com/contact/"] img, :root [href="https://www.masstortfinancing.com/"] > img, :root [href^="https://goldcometals.com/clk.trk"], :root [data-mobile-ad-id], :root a[href^="http://affiliates.thrixxx.com/"], :root a[href^="https://www.adultempire.com/"][href*="?partner_id="], :root [data-template-type="nativead"], :root a[data-redirect^="this.href='http://paid.outbrain.com/network/redir?"], :root a[href^="https://go.xlivrdr.com"], :root [data-freestar-ad], :root [data-ad-cls], :root [id^="ad-wrap-"], :root div[id^="taboola-stream-"], :root [href^="https://go.astutelinks.com/"], :root [href^="http://join.hardcoreshemalevideo.com/"], :root a[href^="http://ads2.williamhill.com/redirect.aspx?"], :root [href^="http://residenceseeingstanding.com/"], :root div[data-adunit], :root app-large-ad, :root [href^="https://turtlebids.irauctions.com/"] img, :root div[class^="index_adBeforeContent_"], :root a[href^="http://www.onclickmega.com/jump/next.php?"], :root .trc_rbox_border_elm .syndicatedItem, :root [class^="amp-ad-"], :root a[href^="http://enter.anabolic.com/track/"], :root .trc_related_container div[data-item-syndicated="true"], :root a[href^="https://delivery.porn.com/"], :root div[data-native-ad], :root AD-SLOT, :root a[href^="https://clicks.pipaffiliates.com/"], :root [href^="https://click2cvs.com/"], :root div[id^="banner-ad-"], :root a[href^="https://a2.adform.net/"], :root a[data-redirect^="http://paid.outbrain.com/network/redir?"], :root [data-revive-zoneid], :root a[href^="https://googleads.g.doubleclick.net/pcs/click"], :root AMP-AD, :root a[href^="https://ausoafab.net/"], :root a[href^="//benoopto.com/"], :root div[class^="AdhesionAd_"], :root .trc_rbox_div .syndicatedItem, :root a-ad, :root a[href^="http://go.fpmarkets.com/"], :root [data-ad-module], :root [href^="https://trackfin.asia/"], :root .plistaList > .plista_widget_underArticle_item[data-type="pet"], :root LEADERBOARD-AD, :root .grid > .container > #aside-promotion, :root a[href^="https://spygasm.com/track?"], :root a[href^="https://agacelebir.com/"], :root a[href*="//lkstrck2.com/"], :root .plistaList > .itemLinkPET, :root [href^="http://join.shemalepornstar.com/"], :root [href^="https://affiliate.fastcomet.com/"] > img, :root #atvcap + #tvcap > .mnr-c > .commercial-unit-mobile-top, :root a[href^="http://partners.etoro.com/"], :root [data-advadstrackid], :root a[href^="http://intent.bingads.com/"], :root [href^="https://mypillow.com/"] > img, :root a[href^="https://www.googleadservices.com/pagead/aclk?"], :root a[href^="https://awentw.com/"], :root [class^="div-gpt-ad"], :root a[href^="//voyeurhit.com/cs/"], :root a[href^="https://speedsupermarketdonut.com/"], :root #taw > .med + div > #tvcap > .mnr-c:not(.qs-ic) > .commercial-unit-mobile-top, :root [data-adblockkey], :root a[href^="https://americafirstpolls.com/"] { display: none !important; }</style><link id="themekit-sidebar" rel="stylesheet" type="text/css" href="./Signflow - Ultra Modern Tech Template_files/sidebar.css" media="all"></head>
+<body class="device-l">
+    <div id="preloader" style="display: none;"></div>
+    <header class="fixed-top scroll-change" data-menu-anima="fade-bottom" style="height: 70px;">
+        <div class="navbar navbar-default mega-menu-fullwidth navbar-fixed-top" role="navigation">
+            <div class="navbar navbar-main">
+                <div class="container">
+                    <div class="navbar-header">
+                        <button type="button" class="navbar-toggle">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <a class="navbar-brand" href="http://templates.framework-y.com/signflow/pages/index.html" style="">
+                            <img class="logo-default" src="./Signflow - Ultra Modern Tech Template_files/search" alt="logo">
+                            <img class="logo-retina" src="./Signflow - Ultra Modern Tech Template_files/logo-retina-black.png" alt="logo">
+                        </a>
+                    </div>
+                    <div class="collapse navbar-collapse">
+                        <div class="nav navbar-nav navbar-right">
+                            <ul class="nav navbar-nav">
+                                <li class="dropdown">
+                                    <a href="http://templates.framework-y.com/signflow/pages/index-business.html#" class="dropdown-toggle" data-toggle="dropdown" role="button">Hakkında<span class="caret"></span></a>
+                                    <ul class="dropdown-menu multi-level fade-bottom" style="transition-duration: 0ms; animation-duration: 300ms; transition-timing-function: ease; transition-delay: 0ms;">
+                                        <li><a href="http://templates.framework-y.com/signflow/pages/index-main.html">Main</a></li>
+                                        <li><a href="http://templates.framework-y.com/signflow/pages/index-freelancer.html">Freelancer</a></li>
+                                        <li><a href="http://templates.framework-y.com/signflow/pages/index-business.html">Business</a></li>
+                                        <li><a href="http://templates.framework-y.com/signflow/pages/index-video.html">Video</a></li>
+                                        <li><a href="http://templates.framework-y.com/signflow/pages/index-cooworking.html">Cooworking</a></li>
+                                        <li><a href="http://templates.framework-y.com/signflow/pages/index-fullpage.html">Fullpage</a></li>
+                                        <li><a href="http://templates.framework-y.com/signflow/pages/index-mobile.html">Mobile</a></li>
+                                        <li><a href="http://templates.framework-y.com/signflow/pages/index-application.html">Application</a></li>
+                                        <li><a href="http://templates.framework-y.com/signflow/pages/index.html">Intro</a></li>
+                                    </ul>
+                                </li>
+                                <li class="dropdown">
+                                    <a href="http://templates.framework-y.com/signflow/pages/index-business.html#" class="dropdown-toggle" data-toggle="dropdown" role="button">ODALAR<span class="caret"></span></a>
+                                    <ul class="dropdown-menu multi-level fade-bottom" style="transition-duration: 0ms; animation-duration: 300ms; transition-timing-function: ease; transition-delay: 0ms;">
+                                        <li class="dropdown dropdown-submenu">
+                                            <a href="http://templates.framework-y.com/signflow/pages/index-business.html#" class="dropdown-toggle" data-toggle="dropdown">About</a>
+                                            <ul class="dropdown-menu fade-bottom" style="transition-duration: 0ms; animation-duration: 300ms; transition-timing-function: ease; transition-delay: 0ms;">
+                                                <li><a href="http://templates.framework-y.com/signflow/pages/about-us-1.html">About us one</a></li>
+                                                <li><a href="http://templates.framework-y.com/signflow/pages/about-us-2.html">About us two</a></li>
+                                                <li><a href="http://templates.framework-y.com/signflow/pages/about-us-3.html">About us three</a></li>
+                                                <li><a href="http://templates.framework-y.com/signflow/pages/about-us-4.html">About us four</a></li>
+                                            </ul>
+                                        </li>
+                                        <li class="dropdown dropdown-submenu">
+                                            <a href="http://templates.framework-y.com/signflow/pages/index-business.html#" class="dropdown-toggle" data-toggle="dropdown">Services</a>
+                                            <ul class="dropdown-menu fade-bottom" style="transition-duration: 0ms; animation-duration: 300ms; transition-timing-function: ease; transition-delay: 0ms;">
+                                                <li><a href="http://templates.framework-y.com/signflow/pages/services-1.html">Services one</a></li>
+                                                <li><a href="http://templates.framework-y.com/signflow/pages/services-2.html">Services two</a></li>
+                                                <li><a href="http://templates.framework-y.com/signflow/pages/services-3.html">Services three</a></li>
+                                                <li><a href="http://templates.framework-y.com/signflow/pages/services-4.html">Services four</a></li>
+                                            </ul>
+                                        </li>
+                                        <li class="dropdown dropdown-submenu">
+                                            <a href="http://templates.framework-y.com/signflow/pages/index-business.html#" class="dropdown-toggle" data-toggle="dropdown">Contacs</a>
+                                            <ul class="dropdown-menu">
+                                                <li><a href="http://templates.framework-y.com/signflow/pages/contacts-1.html">Contacts one</a></li>
+                                                <li><a href="http://templates.framework-y.com/signflow/pages/contacts-2.html">Contacts two</a></li>
+                                                <li><a href="http://templates.framework-y.com/signflow/pages/contacts-3.html">Contacts three</a></li>
+                                                <li><a href="http://templates.framework-y.com/signflow/pages/contacts-4.html">Contacts four</a></li>
+                                            </ul>
+                                        </li>
+                                        <li class="dropdown dropdown-submenu">
+                                            <a href="http://templates.framework-y.com/signflow/pages/index-business.html#" class="dropdown-toggle" data-toggle="dropdown">Other</a>
+                                            <ul class="dropdown-menu">
+                                                <li><a href="http://templates.framework-y.com/signflow/pages/pricing.html">Pricing</a></li>
+                                                <li><a href="http://templates.framework-y.com/signflow/pages/faq.html">Faq</a></li>
+                                                <li><a href="http://templates.framework-y.com/signflow/pages/team.html">Team</a></li>
+                                                <li><a href="http://templates.framework-y.com/signflow/pages/team-2.html">Team two</a></li>
+                                                <li><a href="http://templates.framework-y.com/signflow/pages/gallery.html">Photo &amp; video</a></li>
+                                            </ul>
+                                        </li>
+                                    </ul>
+                                </li>
+                                <li class="dropdown active current-active">
+                                    <a href="http://templates.framework-y.com/signflow/pages/index-business.html#" class="dropdown-toggle" data-toggle="dropdown" role="button">ÜYE OL<span class="caret"></span></a>
+                                    <ul class="dropdown-menu multi-level fade-bottom" style="transition-duration: 0ms; animation-duration: 300ms; transition-timing-function: ease; transition-delay: 0ms;">
+                                        <li class="dropdown dropdown-submenu">
+                                            <a href="http://templates.framework-y.com/signflow/pages/index-business.html#" class="dropdown-toggle" data-toggle="dropdown">Portfolio one</a>
+                                            <ul class="dropdown-menu fade-bottom" style="transition-duration: 0ms; animation-duration: 300ms; transition-timing-function: ease; transition-delay: 0ms;">
+                                                <li><a href="http://templates.framework-y.com/signflow/pages/portfolio-1-gutted-boxed.html">Gutted boxed</a></li>
+                                                <li><a href="http://templates.framework-y.com/signflow/pages/portfolio-1-gutted-boxed-inverse.html">Gutted boxed inverse</a></li>
+                                            </ul>
+                                        </li>
+                                        <li class="dropdown dropdown-submenu">
+                                            <a href="http://templates.framework-y.com/signflow/pages/index-business.html#" class="dropdown-toggle" data-toggle="dropdown">Portfolio two</a>
+                                            <ul class="dropdown-menu fade-bottom" style="transition-duration: 0ms; animation-duration: 300ms; transition-timing-function: ease; transition-delay: 0ms;">
+                                                <li><a href="http://templates.framework-y.com/signflow/pages/portfolio-2-gutted-boxed.html">Gutted boxed</a></li>
+                                                <li><a href="http://templates.framework-y.com/signflow/pages/portfolio-2-gutted-boxed-inverse.html">Gutted boxed inverse</a></li>
+                                            </ul>
+                                        </li>
+                                        <li><a href="http://templates.framework-y.com/signflow/pages/portfolio-3.html">Portfolio three</a></li>
+                                        <li><a href="http://templates.framework-y.com/signflow/pages/portfolio-4.html">Portfolio four</a></li>
+                                        <li><a href="http://templates.framework-y.com/signflow/pages/portfolio-5.html">Portfolio five</a></li>
+                                        <li class="dropdown dropdown-submenu">
+                                            <a href="http://templates.framework-y.com/signflow/pages/index-business.html#" class="dropdown-toggle" data-toggle="dropdown">Single item</a>
+                                            <ul class="dropdown-menu">
+                                                <li><a href="http://templates.framework-y.com/signflow/pages/portfolio-single-1.html">Portfolio single 1</a></li>
+                                                <li><a href="http://templates.framework-y.com/signflow/pages/portfolio-single-2.html">Portfolio single 2</a></li>
+                                                <li><a href="http://templates.framework-y.com/signflow/pages/portfolio-single-3.html">Portfolio single 3</a></li>
+                                                <li><a href="http://templates.framework-y.com/signflow/pages/portfolio-single-4.html">Portfolio single 4</a></li>
+                                                <li><a href="http://templates.framework-y.com/signflow/pages/portfolio-single-5.html">Portfolio single 5</a></li>
+                                            </ul>
+                                        </li>
+                                    </ul>
+                                </li>
+                                <li class="dropdown">
+                                    <a href="http://templates.framework-y.com/signflow/pages/index-business.html#" class="dropdown-toggle" data-toggle="dropdown" role="button">GALERİ<span class="caret"></span></a>
+                                    <ul class="dropdown-menu multi-level fade-bottom" style="transition-duration: 0ms; animation-duration: 300ms; transition-timing-function: ease; transition-delay: 0ms;">
+                                        <li><a href="http://templates.framework-y.com/signflow/pages/blog-grid.html">Grid</a></li>
+                                        <li><a href="http://templates.framework-y.com/signflow/pages/blog-social.html">Social</a></li>
+                                        <li><a href="http://templates.framework-y.com/signflow/pages/blog-minimal.html">Minimal</a></li>
+                                        <li class="dropdown dropdown-submenu">
+                                            <a href="http://templates.framework-y.com/signflow/pages/index-business.html#" class="dropdown-toggle" data-toggle="dropdown">Single post</a>
+                                            <ul class="dropdown-menu">
+                                                <li><a href="http://templates.framework-y.com/signflow/pages/blog-single-1.html">Post single 1</a></li>
+                                                <li><a href="http://templates.framework-y.com/signflow/pages/blog-single-2.html">Post single 2</a></li>
+                                                <li><a href="http://templates.framework-y.com/signflow/pages/blog-single-3.html">Post single 3</a></li>
+                                            </ul>
+                                        </li>
+                                    </ul>
+                                </li>
+                                <li class="dropdown mega-dropdown mega-tabs">
+                                    <a class="dropdown-toggle" data-toggle="dropdown" href="http://templates.framework-y.com/signflow/pages/index-business.html#">Ödeme<span class="caret"></span></a>
+                                    <div class="mega-menu dropdown-menu multi-level row bg-menu fade-bottom" style="transition-duration: 0ms; animation-duration: 300ms; transition-timing-function: ease; transition-delay: 0ms;">
+                                        <div class="tab-box" data-tab-anima="fade-left">
+                                            <ul class="nav nav-tabs">
+                                                <li class=""><a href="http://templates.framework-y.com/signflow/pages/index-business.html#">Components</a></li>
+                                                <li><a href="http://templates.framework-y.com/signflow/pages/index-business.html#">Headers</a></li>
+                                                <li><a href="http://templates.framework-y.com/signflow/pages/index-business.html#">Titles</a></li>
+                                            </ul>
+                                            <div class="panel active">
+                                                <div class="col">
+                                                    <h5>Components</h5>
+                                                    <ul class="fa-ul text-s">
+                                                        <li><i class="fa-li fa fa-cubes"></i> <a href="http://templates.framework-y.com/signflow/pages/features/components/icons.html">Icons</a></li>
+                                                        <li><i class="fa-li fa fa-plus"></i> <a href="http://templates.framework-y.com/signflow/pages/features/components/counters-countdown.html">Counters</a></li>
+                                                        <li><i class="fa-li fa fa-clock-o"></i> <a href="http://templates.framework-y.com/signflow/pages/features/components/counters-countdown.html">Countdowns</a></li>
+                                                        <li><i class="fa-li fa fa-tasks"></i> <a href="http://templates.framework-y.com/signflow/pages/features/components/progress-bars.html">Progress bars</a></li>
+                                                        <li><i class="fa-li fa fa-circle-o"></i> <a href="http://templates.framework-y.com/signflow/pages/features/components/progress-bars.html">Circle progress bars</a></li>
+                                                        <li><i class="fa-li fa fa-calendar"></i> <a href="http://templates.framework-y.com/signflow/pages/features/components/timeline.html">Timeline</a></li>
+                                                        <li><i class="fa-li fa fa-map-marker"></i> <a href="http://templates.framework-y.com/signflow/pages/features/components/maps.html">Google maps</a></li>
+                                                        <li><i class="fa-li fa fa-table"></i> <a href="http://templates.framework-y.com/signflow/pages/features/components/tables.html">Advanced table</a></li>
+                                                        <li><i class="fa-li fa fa-envelope-o"></i> <a href="http://templates.framework-y.com/signflow/pages/features/components/php-contact-form.html">Contact form</a></li>
+                                                    </ul>
+                                                </div>
+                                                <div class="col">
+                                                    <h5>Main components</h5>
+                                                    <ul class="fa-ul text-s">
+                                                        <li><i class="fa-li fa fa-cube"></i> <a href="http://templates.framework-y.com/signflow/pages/features/components/buttons.html">Buttons</a></li>
+                                                        <li><i class="fa-li fa fa-photo"></i> <a href="http://templates.framework-y.com/signflow/pages/features/components/image-boxes.html">Image boxes</a></li>
+                                                        <li><i class="fa-li fa fa-photo"></i> <a href="http://templates.framework-y.com/signflow/pages/features/components/image-boxes-advanced.html">Advanced image boxes</a></li>
+                                                        <li><i class="fa-li fa fa-th-large"></i> <a href="http://templates.framework-y.com/signflow/pages/features/components/content-box.html">Content boxes</a></li>
+                                                        <li><i class="fa-li fa fa-facebook-official"></i> <a href="http://templates.framework-y.com/signflow/pages/features/components/social-media.html">Social media</a></li>
+                                                        <li><i class="fa-li fa fa-list"></i> <a href="http://templates.framework-y.com/signflow/pages/features/components/lists.html">Lists</a></li>
+                                                        <li><i class="fa-li fa fa-paragraph"></i> <a href="http://templates.framework-y.com/signflow/pages/features/components/typography.html">Typography</a></li>
+                                                        <li><i class="fa-li fa fa-list-ol"></i> <a href="http://templates.framework-y.com/signflow/pages/features/containers/list-grid.html">Grid</a></li>
+                                                        <li><i class="fa-li fa fa-list-ol"></i> <a href="http://templates.framework-y.com/signflow/pages/features/containers/list-masonry.html">Masonry</a></li>
+                                                    </ul>
+                                                </div>
+                                                <div class="col">
+                                                    <h5>Containers</h5>
+                                                    <ul class="fa-ul text-s">
+                                                        <li><i class="fa-li fa fa-expand"></i> <a href="http://templates.framework-y.com/signflow/pages/features/containers/lightbox.html">Lightbox and popups</a></li>
+                                                        <li><i class="fa-li fa fa-sliders"></i> <a href="http://templates.framework-y.com/signflow/pages/features/containers/sliders.html">Sliders and carousels</a></li>
+                                                        <li><i class="fa-li fa fa-toggle-down"></i> <a href="http://templates.framework-y.com/signflow/pages/features/containers/scroll-box-collapse.html">Scroll box</a></li>
+                                                        <li><i class="fa-li fa fa-minus"></i> <a href="http://templates.framework-y.com/signflow/pages/features/containers/scroll-box-collapse.html">Collapse box</a></li>
+                                                        <li><i class="fa-li fa fa-square-o"></i> <a href="http://templates.framework-y.com/signflow/pages/features/containers/tabs.html">Tabs</a></li>
+                                                        <li><i class="fa-li fa fa-minus-square-o"></i> <a href="http://templates.framework-y.com/signflow/pages/features/containers/accordions.html">Accordions</a></li>
+                                                        <li><i class="fa-li fa fa-download"></i> <a href="http://templates.framework-y.com/signflow/pages/features/footers/parallax.html">Footer parallax</a></li>
+                                                        <li><i class="fa-li fa fa-download"></i> <a href="http://templates.framework-y.com/signflow/pages/features/footers/minimal.html">Footer minimal</a></li>
+                                                        <li><i class="fa-li fa fa-download"></i> <a href="http://templates.framework-y.com/signflow/pages/features/footers/base.html">Footer base</a></li>
+                                                    </ul>
+                                                </div>
+                                                <div class="col">
+                                                    <h5>Sections</h5>
+                                                    <ul class="fa-ul text-s">
+                                                        <li><i class="fa-li fa fa-photo"></i> <a href="http://templates.framework-y.com/signflow/pages/features/containers/section-background-image.html">Background image</a></li>
+                                                        <li><i class="fa-li fa fa-photo"></i> <a href="http://templates.framework-y.com/signflow/pages/features/containers/section-background-image-parallax.html">Background parallax</a></li>
+                                                        <li><i class="fa-li fa fa-sliders"></i> <a href="http://templates.framework-y.com/signflow/pages/features/containers/section-slider.html">Slider</a></li>
+                                                        <li><i class="fa-li fa fa-film"></i> <a href="http://templates.framework-y.com/signflow/pages/features/containers/section-background-video.html">Background video</a></li>
+                                                        <li><i class="fa-li fa fa-leaf"></i> <a href="http://templates.framework-y.com/signflow/pages/features/containers/section-animations.html">Bg animations</a></li>
+                                                        <li><i class="fa-li fa fa-leaf"></i> <a href="http://templates.framework-y.com/signflow/pages/features/containers/section-animations-parallax.html">Bg animations parallax</a></li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                            <div class="panel">
+                                                <div class="col">
+                                                    <h5>Horizontal menus</h5>
+                                                    <ul class="fa-ul text-s">
+                                                        <li><i class="fa-li fa fa-list"></i> <a href="http://templates.framework-y.com/signflow/pages/features/menus/classic.html">Menu classic</a></li>
+                                                        <li><i class="fa-li fa fa-list"></i> <a href="http://templates.framework-y.com/signflow/pages/features/menus/classic-transparent.html">Menu classic transparent</a></li>
+                                                        <li><i class="fa-li fa fa-list"></i> <a href="http://templates.framework-y.com/signflow/pages/features/menus/big-logo.html">Menu big logo</a></li>
+                                                        <li><i class="fa-li fa fa-list"></i> <a href="http://templates.framework-y.com/signflow/pages/features/menus/subline.html">Menu subline</a></li>
+                                                        <li><i class="fa-li fa fa-list"></i> <a href="http://templates.framework-y.com/signflow/pages/features/menus/subtitle.html">Menu subtitle</a></li>
+                                                    </ul>
+                                                </div>
+                                                <div class="col">
+                                                    <h5>Horizontal menus</h5>
+                                                    <ul class="fa-ul text-s">
+                                                        <li><i class="fa-li fa fa-list"></i> <a href="http://templates.framework-y.com/signflow/pages/features/menus/middle-logo.html">Menu middle logo</a></li>
+                                                        <li><i class="fa-li fa fa-list"></i> <a href="http://templates.framework-y.com/signflow/pages/features/menus/middle-logo-top.html">Menu middle logo top</a></li>
+                                                        <li><i class="fa-li fa fa-list"></i> <a href="http://templates.framework-y.com/signflow/pages/features/menus/middle-box.html">Menu middle box</a></li>
+                                                        <li><i class="fa-li fa fa-list"></i> <a href="http://templates.framework-y.com/signflow/pages/features/menus/icons.html">Menu icons</a></li>
+                                                        <li><i class="fa-li fa fa-list"></i> <a href="http://templates.framework-y.com/signflow/pages/features/menus/icons-top.html">Menu icons top</a></li>
+                                                    </ul>
+                                                </div>
+                                                <div class="col">
+                                                    <h5>Side menus</h5>
+                                                    <ul class="fa-ul text-s">
+                                                        <li><i class="fa-li fa fa-bars"></i> <a href="http://templates.framework-y.com/signflow/pages/features/menus/side.html">Side classic</a></li>
+                                                        <li><i class="fa-li fa fa-bars"></i> <a href="http://templates.framework-y.com/signflow/pages/features/menus/side-lateral.html">Side lateral</a></li>
+                                                        <li><i class="fa-li fa fa-bars"></i> <a href="http://templates.framework-y.com/signflow/pages/features/menus/side-simple.html">Side simple</a></li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                            <div class="panel">
+                                                <div class="col">
+                                                    <h5>Image background</h5>
+                                                    <ul class="fa-ul text-s">
+                                                        <li><i class="fa-li fa fa-photo"></i> <a href="http://templates.framework-y.com/signflow/pages/features/titles/image.html">Image background</a></li>
+                                                        <li><i class="fa-li fa fa-photo"></i> <a href="http://templates.framework-y.com/signflow/pages/features/titles/image-fullscreen.html">Image full-screen</a></li>
+                                                        <li><i class="fa-li fa fa-photo"></i> <a href="http://templates.framework-y.com/signflow/pages/features/titles/image-fullscreen-parallax.html">Image full-screen parallax</a></li>
+                                                        <li><i class="fa-li fa fa-photo"></i> <a href="http://templates.framework-y.com/signflow/pages/features/titles/image-parallax.html">Image parallax</a></li>
+                                                        <li><i class="fa-li fa fa-photo"></i> <a href="http://templates.framework-y.com/signflow/pages/features/titles/image-parallax-ken-burn.html">Image parallax ken-burn</a></li>
+                                                    </ul>
+                                                </div>
+                                                <div class="col">
+                                                    <h5>Video background</h5>
+                                                    <ul class="fa-ul text-s">
+                                                        <li><i class="fa-li fa fa-film"></i> <a href="http://templates.framework-y.com/signflow/pages/features/titles/video-mp4.html">Video background MP4</a></li>
+                                                        <li><i class="fa-li fa fa-film"></i> <a href="http://templates.framework-y.com/signflow/pages/features/titles/video-youtube.html">Video background Youtube</a></li>
+                                                        <li><i class="fa-li fa fa-film"></i> <a href="http://templates.framework-y.com/signflow/pages/features/titles/video-fullscreen.html">Video full-screen</a></li>
+                                                        <li><i class="fa-li fa fa-film"></i> <a href="http://templates.framework-y.com/signflow/pages/features/titles/video-fullscreen-parallax.html">Video full-screen parallax</a></li>
+                                                        <li><i class="fa-li fa fa-film"></i> <a href="http://templates.framework-y.com/signflow/pages/features/titles/video-parallax.html">Video parallax</a></li>
+                                                    </ul>
+                                                </div>
+                                                <div class="col">
+                                                    <h5>Others</h5>
+                                                    <ul class="fa-ul text-s">
+                                                        <li><i class="fa-li fa fa-dot-circle-o"></i><a href="http://templates.framework-y.com/signflow/pages/features/titles/base-1.html">Title base 1</a></li>
+                                                        <li><i class="fa-li fa fa-dot-circle-o"></i><a href="http://templates.framework-y.com/signflow/pages/features/titles/base-2.html">Title base 2</a></li>
+                                                        <li><i class="fa-li fa fa-leaf"></i> <a href="http://templates.framework-y.com/signflow/pages/features/titles/animation.html">Animation background</a></li>
+                                                        <li><i class="fa-li fa fa-leaf"></i> <a href="http://templates.framework-y.com/signflow/pages/features/titles/animation-parallax.html">Animation parallax</a></li>
+                                                    </ul>
+                                                </div>
+                                                <div class="col">
+                                                    <h5>Slider background</h5>
+                                                    <ul class="fa-ul text-s">
+                                                        <li><i class="fa-li fa fa-sliders"></i> <a href="http://templates.framework-y.com/signflow/pages/features/titles/slider.html">Slider background</a></li>
+                                                        <li><i class="fa-li fa fa-sliders"></i> <a href="http://templates.framework-y.com/signflow/pages/features/titles/slider-fullscreen.html">Slider full-screen</a></li>
+                                                        <li><i class="fa-li fa fa-sliders"></i> <a href="http://templates.framework-y.com/signflow/pages/features/titles/slider-fullscreen-parallax.html">Slider full-screen parallax</a></li>
+                                                        <li><i class="fa-li fa fa-sliders"></i> <a href="http://templates.framework-y.com/signflow/pages/features/titles/slider-parallax.html">Slider parallax</a></li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+    <div class="section-empty">
+        <div class="content text-center">
+            <div class="row">
+                <div class="col-md-3 hidden-sm">
+                    <img class="abs-image margin-negative-50 fade-left" data-anima="" data-time="1000" src="./Signflow - Ultra Modern Tech Template_files/mk-9.png" alt="" style="animation-duration: 1000ms; transition-timing-function: ease; transition-delay: 0ms;" aid="0.3677986342079247">
+                </div>
+                <div class="col-md-6 col-sm-12 fade-in" data-anima="" data-time="1000" style="position: relative; animation-duration: 1000ms; transition-timing-function: ease; transition-delay: 0ms;" aid="0.3289324879736635">
+                    <hr class="space">
+                    <h1 class="text-color">
+                        İnternetindeki Meyhane<br>
+                        Sınırsız Eğlence
+                    </h1>
+                    <hr class="space s">
+                    <p class="width-80">
+                        Lorem ipsum dolor sit amet consectetur adipiscing elitsed do eiusmod tempor incididunt utlabore et dolore magna aliqua.
+                        Utenim ad minim veniam quis nostrud exercitation ullamcor.
+                    </p>
+                    <hr class="space m">
+                    <a href="http://templates.framework-y.com/signflow/pages/index-business.html#" class="circle-button btn btn-lg btn-border"><i class="fa fa-play-circle-o"></i>Hemen Katıl</a>
+                    <hr class="space l">
+                </div>
+                <div class="col-md-3 hidden-sm">
+                    <img class="abs-image pull-right margin-negative-50 fade-right" data-anima="" data-time="1000" src="./Signflow - Ultra Modern Tech Template_files/mk-10.png" alt="" style="animation-duration: 1000ms; transition-timing-function: ease; transition-delay: 0ms;" aid="0.45440465133151253">
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="section-empty text-center">
+        <div class="container content">
+            <h1 class="text-color text-xl">En Eğlenceli Şekilde Eğlen</h1>
+            <hr class="space">
+            <table class="grid-table grid-table-sm-12">
+                <tbody>
+                    <tr>
+                        <td>
+                            <div class="advs-box advs-box-top-icon boxed-inverse shadow-1" data-anima="pulse" data-trigger="hover">
+                                <i class="fa fa-bar-chart-o icon circle anima text-xl" aid="0.38221959424586127" style="position: relative; animation-duration: 500ms; transition-timing-function: ease; transition-delay: 0ms;"></i>
+                                <h3 class="text-m">Geleceği Keşfet</h3>
+                                <p>
+                                    Interdum iusto pulvinar consequuntur repellat fugaruoio.
+                                </p>
+                            </div>
+                        </td>
+                        <td>
+                            <div class="advs-box advs-box-top-icon boxed-inverse shadow-1" data-anima="pulse" data-trigger="hover">
+                                <i class="fa fa-globe icon circle anima text-xl" aid="0.3521996552436959" style="position: relative; animation-duration: 500ms; transition-timing-function: ease; transition-delay: 0ms;"></i>
+                                <h3 class="text-m">Dünyanın dört bir yanından insanları bul</h3>
+                                <p>
+                                    Interdum iusto pulvinar consequuntur augue optio relato perco.
+                                </p>
+                            </div>
+                        </td>
+                        <td>
+                            <div class="advs-box advs-box-top-icon boxed-inverse shadow-1" data-anima="pulse" data-trigger="hover">
+                                <i class="fa fa-user-plus icon circle anima text-xl" aid="0.6971179103570437" style="position: relative; animation-duration: 500ms; transition-timing-function: ease; transition-delay: 0ms;"></i>
+                                <h3 class="text-m">Yepyeni insanlarla tanış</h3>
+                                <p>
+                                    Interdum iusto pulvinar consequuntur augue optio repellat fuga.
+                                </p>
+                            </div>
+                        </td>
+                        <td>
+                            <div class="advs-box advs-box-top-icon boxed-inverse shadow-1" data-anima="pulse" data-trigger="hover">
+                                <i class="fa fa-hand-grab-o icon circle anima text-xl" aid="0.9273832877408175" style="position: relative; animation-duration: 500ms; transition-timing-function: ease; transition-delay: 0ms;"></i>
+                                <h3 class="text-m">Dostluğun gücüne inan</h3>
+                                <p>
+                                    Interdum iusto pulvinar consequuntur augue optio repella.
+                                </p>
+                            </div>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+            <hr class="space">
+            <hr class="space s">
+            <div class="row proporzional-row">
+                <div class="col-md-6 text-left">
+                    <h4>Evinin o rahat köşesinde otururken bile insanlarla sohbet etmenin huzuru...</h4>
+                    <hr class="space s">
+                    <a href="http://templates.framework-y.com/signflow/pages/index-business.html#" class="circle-button btn btn-sm">Dostlar Bul</a><span class="space"></span>
+                    <a href="http://templates.framework-y.com/signflow/pages/index-business.html#" class="circle-button btn btn-sm btn-border">Fırsatları Gör</a>
+                </div>
+                <div class="col-md-6">
+                    <div class="flexslider carousel outer-navs visible-dir-nav no-navs" data-options="minWidth:200,itemMargin:3,numItems:3,controlNav:false,directionNav:true">
+                        
+                    <div class="flex-viewport" style="overflow: hidden; position: relative;"><ul class="slides" style="width: 600%; transition-duration: 0s; transform: translate3d(-266px, 0px, 0px);">
+                            <li style="padding-right: 3px; width: 266.5px; float: left; display: block;">
+                                <a class="img-box lightbox" href="./Signflow - Ultra Modern Tech Template_files/image-4.jpg" data-lightbox-anima="fade-top">
+                                    <img src="./Signflow - Ultra Modern Tech Template_files/image-4.jpg" alt="" draggable="false" style="max-width: 273px; width: 273px; margin-left: -4px;">
+                                </a>
+                            </li>
+                            <li style="padding-right: 3px; width: 266.5px; float: left; display: block;">
+                                <a class="img-box lightbox" href="./Signflow - Ultra Modern Tech Template_files/image-3.jpg" data-lightbox-anima="fade-top">
+                                    <img src="./Signflow - Ultra Modern Tech Template_files/image-3.jpg" alt="" draggable="false" style="max-width: 275px; width: 275px; margin-left: -5px;">
+                                </a>
+                            </li>
+                            <li style="padding-right: 3px; width: 266.5px; float: left; display: block;">
+                                <a class="img-box lightbox" href="./Signflow - Ultra Modern Tech Template_files/image-4.jpg" data-lightbox-anima="fade-top">
+                                    <img src="./Signflow - Ultra Modern Tech Template_files/image-4.jpg" alt="" draggable="false" style="max-width: 273px; width: 273px; margin-left: -4px;">
+                                </a>
+                            </li>
+                        </ul></div><ul class="flex-direction-nav"><li class="flex-nav-prev"><a class="flex-prev" href="http://templates.framework-y.com/signflow/pages/index-business.html#"></a></li><li class="flex-nav-next"><a class="flex-next" href="http://templates.framework-y.com/signflow/pages/index-business.html#"></a></li></ul></div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="section-bg-image bg-top" style="background-image:url(../images/bg-8.jpg)">
+        <div class="container content">
+            <div class="row vertical-row">
+                <div class="col-md-6">
+                    <div class="flexslider slider" data-options="controlNav:true,directionNav:false">
+                        
+                    <div class="flex-viewport" style="overflow: hidden; position: relative;"><ul class="slides" style="width: 800%; transition-duration: 0s; transform: translate3d(-1060px, 0px, 0px);"><li class="clone" aria-hidden="true" style="width: 530px; float: left; display: block;">
+                                <img src="./Signflow - Ultra Modern Tech Template_files/box-2.png" alt="" draggable="false">
+                            </li>
+                            <li style="width: 530px; float: left; display: block;" class="">
+                                <img src="./Signflow - Ultra Modern Tech Template_files/box-1.png" alt="" draggable="false">
+                            </li>
+                            <li style="width: 530px; float: left; display: block;" class="flex-active-slide">
+                                <img src="./Signflow - Ultra Modern Tech Template_files/box-2.png" alt="" draggable="false">
+                            </li>
+                        <li style="width: 530px; float: left; display: block;" class="clone" aria-hidden="true">
+                                <img src="./Signflow - Ultra Modern Tech Template_files/box-1.png" alt="" draggable="false">
+                            </li></ul></div><ol class="flex-control-nav flex-control-paging"><li><a class="">1</a></li><li><a class="flex-active">2</a></li></ol></div>
+                </div>
+                <div class="col-md-6">
+                    <h1>Gerçek Zamanlı Konuşma</h1>
+                    <p>
+                        Lorem ipsum dolor sit amet consectetur adipiscing elitsed do eiusmod tempor incididunt utlabore et dolore magna aliqua.
+                        Utenim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit
+                        in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+                    </p>
+                    <hr class="space s">
+                    <a href="http://templates.framework-y.com/signflow/pages/index-business.html#" class="btn-text">Tam Açıklamayı Oku</a>
+                </div>
+            </div>
+            <hr class="space">
+            <div class="row">
+                <div class="col-md-8 col-center text-center">
+                    <h1 class="text-color text-xl">Born for marketing and seo teams</h1>
+                    <p>
+                        Lorem ipsum dolor sit amet consectetur adipi labore et dolore magscing elitsed do<br>eiusmod tempor incididunt utlabore et dolore magna aliqua.
+                    </p>
+                </div>
+            </div>
+            <hr class="space">
+            <div class="grid-list">
+                <div class="grid-box row">
+                    <div class="grid-item col-md-4">
+                        <div class="advs-box advs-box-side-icon">
+                            <div class="icon-box">
+                                <i class="fa fa-cloud icon anima"></i>
+                            </div>
+                            <div class="caption-box">
+                                <h3>Cloud hosting</h3>
+                                <p>
+                                    Interdum iusto pulvinar consequuntur augue optio repellat fugarus expedita fusce.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="grid-item col-md-4">
+                        <div class="advs-box advs-box-side-icon">
+                            <div class="icon-box">
+                                <i class="fa fa-microchip icon anima"></i>
+                            </div>
+                            <div class="caption-box">
+                                <h3>Quantum engine</h3>
+                                <p>
+                                    Interdum iusto pulvinar consequuntur augue optio repellat fugarus expedita fusce.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="grid-item col-md-4">
+                        <div class="advs-box advs-box-side-icon">
+                            <div class="icon-box">
+                                <i class="fa fa-windows anima"></i>
+                            </div>
+                            <div class="caption-box">
+                                <h3>Windows systems</h3>
+                                <p>
+                                    Interdum iusto pulvinar consequuntur augue optio repellat fugarus expedita fusce.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="grid-item col-md-4">
+                        <div class="advs-box advs-box-side-icon">
+                            <div class="icon-box">
+                                <i class="fa fa-pause icon anima"></i>
+                            </div>
+                            <div class="caption-box">
+                                <h3>Paralles processors</h3>
+                                <p>
+                                    Interdum iusto pulvinar consequuntur augue optio repellat fugarus expedita fusce.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="grid-item col-md-4">
+                        <div class="advs-box advs-box-side-icon">
+                            <div class="icon-box">
+                                <i class="fa fa-gears icon anima"></i>
+                            </div>
+                            <div class="caption-box">
+                                <h3>Dedicated panel</h3>
+                                <p>
+                                    Interdum iusto pulvinar consequuntur augue optio repellat fugarus expedita fusce.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="grid-item col-md-4">
+                        <div class="advs-box advs-box-side-icon">
+                            <div class="icon-box">
+                                <i class="fa fa-desktop icon anima"></i>
+                            </div>
+                            <div class="caption-box">
+                                <h3>Desktop solutions</h3>
+                                <p>
+                                    Interdum iusto pulvinar consequuntur augue optio repellat fugarus expedita fusce.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="section-bg-image bg-top" style="background-image:url(../images/bg-9.jpg)">
+        <div class="container content">
+            <div class="row vertical-row">
+                <div class="col-md-6">
+                    <h1>Software solutions for everyone</h1>
+                    <hr class="space m">
+                    <ul class="fa-ul">
+                        <li><i class="fa-li fa fa-circle-o"></i> State of art architecture for faster computing</li>
+                        <li><i class="fa-li fa fa-circle-o"></i> Decicated and experiences support team available 24/7</li>
+                        <li><i class="fa-li fa fa-circle-o"></i> Download and cloud starege starting from free plans</li>
+                        <li><i class="fa-li fa fa-circle-o"></i> Latest languages and development methods for all our solutions</li>
+                    </ul>
+                </div>
+                <div class="col-md-6">
+                    <div class="flexslider slider outer-navs no-navs" data-options="controlNav:false,directionNav:true">
+                        
+                    <div class="flex-viewport" style="overflow: hidden; position: relative;"><ul class="slides" style="width: 1000%; transition-duration: 0s; transform: translate3d(-1590px, 0px, 0px);"><li class="clone" aria-hidden="true" style="width: 530px; float: left; display: block;">
+                                <a class="img-box lightbox shadow-1" href="./Signflow - Ultra Modern Tech Template_files/display-1.jpg" data-lightbox-anima="fade-right">
+                                    <img src="./Signflow - Ultra Modern Tech Template_files/display-1.jpg" alt="" draggable="false">
+                                </a>
+                            </li>
+                            <li style="width: 530px; float: left; display: block;" class="">
+                                <a class="img-box lightbox shadow-1" href="./Signflow - Ultra Modern Tech Template_files/display-1.jpg" data-lightbox-anima="fade-right">
+                                    <img src="./Signflow - Ultra Modern Tech Template_files/display-1.jpg" alt="" draggable="false">
+                                </a>
+                            </li>
+                            <li style="width: 530px; float: left; display: block;" class="">
+                                <a class="img-box lightbox shadow-1" href="./Signflow - Ultra Modern Tech Template_files/display-1.jpg" data-lightbox-anima="fade-right">
+                                    <img src="./Signflow - Ultra Modern Tech Template_files/display-1.jpg" alt="" draggable="false">
+                                </a>
+                            </li>
+                            <li style="width: 530px; float: left; display: block;" class="flex-active-slide">
+                                <a class="img-box lightbox shadow-1" href="./Signflow - Ultra Modern Tech Template_files/display-1.jpg" data-lightbox-anima="fade-right">
+                                    <img src="./Signflow - Ultra Modern Tech Template_files/display-1.jpg" alt="" draggable="false">
+                                </a>
+                            </li>
+                        <li style="width: 530px; float: left; display: block;" class="clone" aria-hidden="true">
+                                <a class="img-box lightbox shadow-1" href="./Signflow - Ultra Modern Tech Template_files/display-1.jpg" data-lightbox-anima="fade-right">
+                                    <img src="./Signflow - Ultra Modern Tech Template_files/display-1.jpg" alt="" draggable="false">
+                                </a>
+                            </li></ul></div><ul class="flex-direction-nav"><li class="flex-nav-prev"><a class="flex-prev" href="http://templates.framework-y.com/signflow/pages/index-business.html#"></a></li><li class="flex-nav-next"><a class="flex-next" href="http://templates.framework-y.com/signflow/pages/index-business.html#"></a></li></ul></div>
+                </div>
+            </div>
+            <hr class="space">
+            <div class="row">
+                <div class="col-md-8 col-center text-center">
+                    <h1 class="text-color text-xl">Born for marketing and seo teams</h1>
+                    <p>
+                        Lorem ipsum dolor sit amet consectetur adipi labore et dolore magscing elitsed do<br>eiusmod tempor incididunt utlabore et dolore magna aliqua.
+                    </p>
+                </div>
+            </div>
+            <hr class="space">
+            <table class="grid-table text-center">
+                <tbody>
+                    <tr>
+                        <td>
+                            <h4 class="text-m">Personal profile</h4>
+                            <p></p>
+                            <img src="./Signflow - Ultra Modern Tech Template_files/phone-1.png" alt="">
+                        </td>
+                        <td>
+                            <h4 class="text-m">More devices</h4>
+                            <img src="./Signflow - Ultra Modern Tech Template_files/phone-2.png" alt="">
+                        </td>
+                        <td>
+                            <h4 class="text-m">Skills area</h4>
+                            <img src="./Signflow - Ultra Modern Tech Template_files/phone-3.png" alt="">
+                        </td>
+                        <td>
+                            <h4 class="text-m">Messages and chat</h4>
+                            <img src="./Signflow - Ultra Modern Tech Template_files/phone-4.png" alt="">
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+    <div class="section-bg-image bg-top" style="background-image:url(../images/bg-10.jpg)">
+        <div class="container content">
+            <div class="row">
+                <div class="col-md-8 col-center boxed-inverse shadow-1 text-center">
+                    <h4>Ready to generating more sales?</h4>
+                    <hr class="space s">
+                    <div class="icon-list text-center">
+                        <div class="list-item">
+                            <i class="fa fa-circle-o text-s"></i>
+                            <label class="text-s">We don't spam</label>
+                        </div>
+                        <div class="list-item">
+                            <i class="fa fa-circle-o text-s"></i>
+                            <label class="text-s">Free cancellation</label>
+                        </div>
+                        <div class="list-item">
+                            <i class="fa fa-circle-o text-s"></i>
+                            <label class="text-s">Latest news</label>
+                        </div>
+                    </div>
+                    <hr class="space m">
+                    <form action="http://www.framework-y.com/scripts/php/contact-form.php" class="form-box form-ajax form-inline width-80" method="post" data-email="aaa@pixor.it">
+                        <input id="email" name="email" placeholder="Your email address" type="email" class="form-control form-value" required="">
+                        <hr class="space m">
+                        <button class="btn btn-sm" type="submit">Sign up</button>
+                        <div class="success-box">
+                            <div class="alert alert-success">Congratulations. Your message has been sent successfully</div>
+                        </div>
+                        <div class="error-box">
+                            <div class="alert alert-warning">Error, please retry. Your message has not been sent</div>
+                        </div>
+                    </form>
+                    <hr class="space s">
+                    <div class="tag-row icon-row icon-row-circle text-s">
+                        <span>Constant support</span>
+                        <span>Easy cancellation</span>
+                        <span>Risk free</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <i class="scroll-top scroll-top-mobile show fa fa-sort-asc" style="opacity: 0;"></i>
+    <footer class="footer-base">
+        <div class="content">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-3 footer-center text-left">
+                        <img width="120" src="./Signflow - Ultra Modern Tech Template_files/logo.png" alt="">
+                    </div>
+                    <div class="col-md-6 footer-left text-left">
+                        <p>Collins Street West 8007, San Fransico, United States.</p>
+                        <div class="tag-row">
+                            <span>support@company.com</span>
+                            <span>+02 3205550678</span>
+                        </div>
+                    </div>
+                    <div class="col-md-3 footer-left text-right text-left-sm">
+                        <div class="btn-group social-group btn-group-icons">
+                            <a target="_blank" href="http://templates.framework-y.com/signflow/pages/index-business.html#" data-social="share-facebook">
+                                <i class="fa fa-facebook text-xs circle"></i>
+                            </a>
+                            <a target="_blank" href="http://templates.framework-y.com/signflow/pages/index-business.html#" data-social="share-twitter">
+                                <i class="fa fa-twitter text-xs circle"></i>
+                            </a>
+                            <a target="_blank" href="http://templates.framework-y.com/signflow/pages/index-business.html#" data-social="share-google">
+                                <i class="fa fa-google-plus text-xs circle"></i>
+                            </a>
+                            <a target="_blank" href="http://templates.framework-y.com/signflow/pages/index-business.html#" data-social="share-linkedin">
+                                <i class="fa fa-linkedin text-xs circle"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row copy-row">
+                <div class="col-md-12 copy-text">
+                    © 2018 Signflow - Multipurpose &amp; Tech Business Template <span>Handmade by <a href="http://schiocco.io/">schiocco.io</a></span>
+                </div>
+            </div>
+        </div>
+        <link rel="stylesheet" href="./Signflow - Ultra Modern Tech Template_files/font-awesome.css">
+        <script async="" src="./Signflow - Ultra Modern Tech Template_files/bootstrap.min.js.indir"></script>
+        <script src="./Signflow - Ultra Modern Tech Template_files/imagesloaded.min.js.indir"></script>
+        <script src="./Signflow - Ultra Modern Tech Template_files/parallax.min.js.indir"></script>
+        <script src="./Signflow - Ultra Modern Tech Template_files/jquery.flexslider-min.js.indir"></script>
+        <script async="" src="./Signflow - Ultra Modern Tech Template_files/isotope.min.js.indir"></script>
+        <script async="" src="./Signflow - Ultra Modern Tech Template_files/contact-form.js.indir"></script>
+        <script async="" src="./Signflow - Ultra Modern Tech Template_files/jquery.progress-counter.js.indir"></script>
+        <script async="" src="./Signflow - Ultra Modern Tech Template_files/jquery.tab-accordion.js.indir"></script>
+        <script async="" src="./Signflow - Ultra Modern Tech Template_files/bootstrap.popover.min.js.indir"></script>
+        <script async="" src="./Signflow - Ultra Modern Tech Template_files/jquery.magnific-popup.min.js.indir"></script>
+        <script src="./Signflow - Ultra Modern Tech Template_files/social.stream.min.js.indir"></script>
+        <script src="./Signflow - Ultra Modern Tech Template_files/jquery.slimscroll.min.js.indir"></script>
+        <script src="./Signflow - Ultra Modern Tech Template_files/sidebar.js.indir" data-setting="signflow"></script>
+    </footer>
+
+
+<div class="themekit-sidebar-cnt themekit-init"><div class="themekit-sidebar"><div class="themekit-colors themekit-colors-1"><h2></h2><ul><li data-color="#004FEC" style="background-color: #004FEC"></li><li data-color="#FF0000" style="background-color: #FF0000"></li><li data-color="#00C24F" style="background-color: #00C24F"></li><li data-color="#45484A" style="background-color: #45484A"></li><li data-color="#00E0C5" style="background-color: #00E0C5"></li><li data-color="#ffca00" style="background-color: #ffca00"></li><li data-color="#ff8300" style="background-color: #ff8300"></li><li data-color="#ff72e6" style="background-color: #ff72e6"></li><li data-color="#dc0fc1" style="background-color: #dc0fc1"></li><li data-color="#4073b5" style="background-color: #4073b5"></li></ul><div><input placeholder="#000000" type="text"><i></i></div></div><div class="themekit-colors themekit-colors-2"><h2></h2><ul><li data-color="#004FEC" style="background-color: #004FEC"></li><li data-color="#FF0000" style="background-color: #FF0000"></li><li data-color="#00C24F" style="background-color: #00C24F"></li><li data-color="#45484A" style="background-color: #45484A"></li><li data-color="#00E0C5" style="background-color: #00E0C5"></li><li data-color="#ffca00" style="background-color: #ffca00"></li><li data-color="#ff8300" style="background-color: #ff8300"></li><li data-color="#ff72e6" style="background-color: #ff72e6"></li><li data-color="#dc0fc1" style="background-color: #dc0fc1"></li><li data-color="#4073b5" style="background-color: #4073b5"></li></ul><div><input placeholder="#000000" type="text"><i></i></div></div><div class="themekit-products"><h2></h2><div> <a href="https://1.envato.market/Dmj52" target="_blank" style="background-image: url(https://schiocco.com/images/preview-codrop.jpg)"></a> <a href="https://1.envato.market/79e5Y" target="_blank" style="background-image: url(https://schiocco.com/images/preview-execoore.jpg)"></a> <a href="https://1.envato.market/Pqn6X" target="_blank" style="background-image: url(https://schiocco.com/images/preview-elon.jpg)"></a> <a href="https://1.envato.market/AY5yx" target="_blank" style="background-image: url(https://schiocco.com/images/preview-yellowbusiness.jpg)"></a></div></div><div class="themekit-powered"><h2></h2><div> <a href="https://themekit.dev/" target="_blank" style="background-image: url(https://themekit.dev/images/logo.svg)"></a> <a href="https://schiocco.com/" target="_blank" style="background-image: url(https://schiocco.com/images/logo.svg)"></a></div></div></div><div class="themekit-button"></div></div><input type="hidden" id="themekit-colors" name="themekit-colors" value=".accordion-list .list-group-item:before,.advs-box-side-img hr,.advs-box-top-icon-img.niche-box-post:after,.advs-box.boxed,.boxed.advs-box-top-icon-img .advs-box-content,.btn,.btn.circle-button,.call-action-box,.circle-button,.extra-content,.header-animation.white .title-base hr,.header-base .breadcrumb,.header-bootstrap,.header-title hr,.header-title.white .title-base hr,.intro-box:after,.intro-box:before,.mi-menu .sidebar-nav,.nav.inner.ms-mini,.nav:not(.ms-rounded) li&gt;a:before,.niche-box-post .block-infos .block-data,.progress-bar,.tagbox span,.title-base .scroll-top,.title-base h2:before,.title-base hr,.title-modern .scroll-top,.woocommerce .product span.onsale,[class*=col-md-].boxed,[class*=header-] .title-base h1:before,i.circle,i.square{background-color:themekit-color}.advs-box-multiple.boxed .advs-box-content,.header-base.white,.list-items .list-item span,.navbar-inner .nav.ms-minimal li a:before,.section-two-blocks.bg-color&gt;.row&gt;div:last-child{background-color:themekit-color!important}.accordion-list .list-group-item&gt;a i,.accordion-list .list-group-item&gt;a.active,.active .maso-order i,.adv-circle.adv-circle-center i,.adv-img-button-content .caption i,.advs-box-content h2:hover a,.advs-box-multiple div i,.advs-box-side .icon,.advs-box-side-icon i,.advs-box-top-icon:not(.boxed) i.icon,.anima-button i,.block-quote.quote-1:before,.box-menu-inner .icon-box i,.box-steps .step-item:after,.box-steps .step-number,.breadcrumb&gt;li+li:before,.bs-menu li.active&gt;a,.bs-menu li:hover&gt;a,.btn-text i,.btn.btn-border i,.caption-bottom p,.datepicker-panel&gt;ul&gt;li.picked,.datepicker-panel&gt;ul&gt;li.picked:hover,.dropdown-menu ul&gt;li:hover&gt;a,.footer-center .footer-title,.fullpage-arrow.arrow-circle .arrow i,.fullpage-menu .active i,.fullpage-menu.white li.active a i,.hamburger-button:hover,.icon-menu .navbar-collapse ul.nav i,.icon-menu ul.nav&gt;li.active&gt;a i,.icon-menu ul.nav&gt;li:hover&gt;a i,.img-box.adv-circle i,.mega-menu .fa-ul .fa-li,.mi-menu a&gt;.fa,.mi-menu li .fa,.navbar-default .navbar-nav&gt;.active&gt;a,.navbar-default .navbar-toggle:focus i,.navbar-default .navbar-toggle:hover i,.pricing-table .list-group-item:before,.pricing-table .pricing-price span,.side-menu i,.side-menu ul a i,.text-muted .block-quote.quote-2:before,.timeline&gt;li&gt;.timeline-label h4,.title-icon i,div .extra-content,footer a:hover,footer h4,h6,header .side-menu .active&gt;a,i,i.icon,li.panel-item .fa-li{color:themekit-color}@media (max-width:994px){.navbar-nav .open .dropdown-menu&gt;li&gt;a[href=#]{color:themekit-color!important}}.accordion-list .list-group-item&gt;a:hover,.advs-box h2 a:hover,.advs-box-top-icon.boxed .btn,.advs-box-top-icon.boxed .circle-button,.boxed .circle-button,.boxed .circle-button:hover i,.dropdown-menu&gt;li&gt;a:hover,.footer-minimal .footer-title,.nav.ms-minimal&gt;li.active&gt;a,.pagination&gt;.active&gt;a,.pagination&gt;li:not(.disabled):hover&gt;a,.sidebar-nav ul a:hover,.white .text-color,.woocommerce div.product p.price,.woocommerce div.product span.price,header .btn-search:hover,header .mi-menu .sidebar-nav ul a:hover,header .navbar-default .navbar-nav&gt;li:hover&gt;a,header.menu-transparent.scroll-css .navbar-default .navbar-nav&gt;.active&gt;a,header.menu-transparent.scroll-css .navbar-default .navbar-nav&gt;li:hover&gt;a,header.scroll-css .navbar-default .navbar-nav&gt;.active&gt;a{color:themekit-color!important}.btn-color.btn-border,.nav-pills&gt;li.active&gt;a,.nav-pills&gt;li.active&gt;a:focus,.nav-pills&gt;li.active&gt;a:hover,.pagination&gt;li:not(.disabled):hover&gt;a i:before{border-color:themekit-color!important;color:themekit-color!important}.nav.inner.ms-rounded&gt;li.active a,.nav.inner.ms-rounded&gt;li&gt;a:hover,.white .btn,.white .btn:hover{background-color:themekit-color!important;border-color:themekit-color!important}.bg-transparent .navbar-nav&gt;li.active&gt;a .caret:before,.bg-transparent .navbar-nav&gt;li:hover&gt;a .caret:before,.btn-border,.btn-default,.circle-button,.scroll-top-mobile:hover:before,.tab-box.left:not(.pills) .panel-box,.tab-box.right .nav-tabs,.tab-box.right:not(.pills) .panel-box,.white .btn-text,.white .btn:not(.btn-border){border-color:themekit-color}.border-color,.border-color.boxed-border.boxed-border.white,.boxed.advs-box-multiple .advs-box-content,.extra-content,.niche-box-post,.quote-author,.timeline&gt;li&gt;.timeline-badge,body div.boxed-border.border-yellow{border-color:themekit-color!important}.datepicker-top-left,.datepicker-top-right{border-top-color:themekit-color}.datepicker-top-left:before,.datepicker-top-right:before{border-bottom-color:themekit-color}"><input type="hidden" id="themekit-colors-2" name="themekit-colors-2" value=".boxed .btn,.boxed.white .btn,.btn-primary.focus,.btn-primary:focus,.btn:not(.btn-border):hover,.img-box.i-center i.fa-play,.side-menu .active,.white .title-base.yellow-bar hr,.white.call-action-box .btn,.white.circle-button:hover,.woocommerce #respond input#submit.alt:hover,.woocommerce a.button.alt:hover,.woocommerce button.button.alt:hover,.woocommerce input.button.alt:hover{background-color:themekit-color!important}.btn-border:hover,.btn.btn-border:hover,.btn.circle-button.btn-border:hover,.tag-row i{color:themekit-color}.btn-border:hover i,.white .btn i{color:themekit-color!important}.text-color{color:themekit-color}.btn:hover,.circle-button:hover{border-color:themekit-color!important}.btn-color.btn-border:hover,.btn-text,html .advs-box .btn-text:after{color:themekit-color;border-color:themekit-color}"><style id="themekit-css">.accordion-list .list-group-item:before,.advs-box-side-img hr,.advs-box-top-icon-img.niche-box-post:after,.advs-box.boxed,.boxed.advs-box-top-icon-img .advs-box-content,.btn,.btn.circle-button,.call-action-box,.circle-button,.extra-content,.header-animation.white .title-base hr,.header-base .breadcrumb,.header-bootstrap,.header-title hr,.header-title.white .title-base hr,.intro-box:after,.intro-box:before,.mi-menu .sidebar-nav,.nav.inner.ms-mini,.nav:not(.ms-rounded) li>a:before,.niche-box-post .block-infos .block-data,.progress-bar,.tagbox span,.title-base .scroll-top,.title-base h2:before,.title-base hr,.title-modern .scroll-top,.woocommerce .product span.onsale,[class*=col-md-].boxed,[class*=header-] .title-base h1:before,i.circle,i.square{background-color:#00C24F}.advs-box-multiple.boxed .advs-box-content,.header-base.white,.list-items .list-item span,.navbar-inner .nav.ms-minimal li a:before,.section-two-blocks.bg-color>.row>div:last-child{background-color:#00C24F!important}.accordion-list .list-group-item>a i,.accordion-list .list-group-item>a.active,.active .maso-order i,.adv-circle.adv-circle-center i,.adv-img-button-content .caption i,.advs-box-content h2:hover a,.advs-box-multiple div i,.advs-box-side .icon,.advs-box-side-icon i,.advs-box-top-icon:not(.boxed) i.icon,.anima-button i,.block-quote.quote-1:before,.box-menu-inner .icon-box i,.box-steps .step-item:after,.box-steps .step-number,.breadcrumb>li+li:before,.bs-menu li.active>a,.bs-menu li:hover>a,.btn-text i,.btn.btn-border i,.caption-bottom p,.datepicker-panel>ul>li.picked,.datepicker-panel>ul>li.picked:hover,.dropdown-menu ul>li:hover>a,.footer-center .footer-title,.fullpage-arrow.arrow-circle .arrow i,.fullpage-menu .active i,.fullpage-menu.white li.active a i,.hamburger-button:hover,.icon-menu .navbar-collapse ul.nav i,.icon-menu ul.nav>li.active>a i,.icon-menu ul.nav>li:hover>a i,.img-box.adv-circle i,.mega-menu .fa-ul .fa-li,.mi-menu a>.fa,.mi-menu li .fa,.navbar-default .navbar-nav>.active>a,.navbar-default .navbar-toggle:focus i,.navbar-default .navbar-toggle:hover i,.pricing-table .list-group-item:before,.pricing-table .pricing-price span,.side-menu i,.side-menu ul a i,.text-muted .block-quote.quote-2:before,.timeline>li>.timeline-label h4,.title-icon i,div .extra-content,footer a:hover,footer h4,h6,header .side-menu .active>a,i,i.icon,li.panel-item .fa-li{color:#00C24F}@media (max-width:994px){.navbar-nav .open .dropdown-menu>li>a[href=#]{color:#00C24F!important}}.accordion-list .list-group-item>a:hover,.advs-box h2 a:hover,.advs-box-top-icon.boxed .btn,.advs-box-top-icon.boxed .circle-button,.boxed .circle-button,.boxed .circle-button:hover i,.dropdown-menu>li>a:hover,.footer-minimal .footer-title,.nav.ms-minimal>li.active>a,.pagination>.active>a,.pagination>li:not(.disabled):hover>a,.sidebar-nav ul a:hover,.white .text-color,.woocommerce div.product p.price,.woocommerce div.product span.price,header .btn-search:hover,header .mi-menu .sidebar-nav ul a:hover,header .navbar-default .navbar-nav>li:hover>a,header.menu-transparent.scroll-css .navbar-default .navbar-nav>.active>a,header.menu-transparent.scroll-css .navbar-default .navbar-nav>li:hover>a,header.scroll-css .navbar-default .navbar-nav>.active>a{color:#00C24F!important}.btn-color.btn-border,.nav-pills>li.active>a,.nav-pills>li.active>a:focus,.nav-pills>li.active>a:hover,.pagination>li:not(.disabled):hover>a i:before{border-color:#00C24F!important;color:#00C24F!important}.nav.inner.ms-rounded>li.active a,.nav.inner.ms-rounded>li>a:hover,.white .btn,.white .btn:hover{background-color:#00C24F!important;border-color:#00C24F!important}.bg-transparent .navbar-nav>li.active>a .caret:before,.bg-transparent .navbar-nav>li:hover>a .caret:before,.btn-border,.btn-default,.circle-button,.scroll-top-mobile:hover:before,.tab-box.left:not(.pills) .panel-box,.tab-box.right .nav-tabs,.tab-box.right:not(.pills) .panel-box,.white .btn-text,.white .btn:not(.btn-border){border-color:#00C24F}.border-color,.border-color.boxed-border.boxed-border.white,.boxed.advs-box-multiple .advs-box-content,.extra-content,.niche-box-post,.quote-author,.timeline>li>.timeline-badge,body div.boxed-border.border-yellow{border-color:#00C24F!important}.datepicker-top-left,.datepicker-top-right{border-top-color:#00C24F}.datepicker-top-left:before,.datepicker-top-right:before{border-bottom-color:#00C24F}</style><style id="themekit-css-2"></style></body></html>
